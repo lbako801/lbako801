@@ -1,4 +1,4 @@
-## Greetings, fellow code enthusiast! You are visitor number...
+# You are visitor number...
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{lbako801/count.svg)
@@ -13,3 +13,10 @@ With my fun and personable approach to work, I'm always looking to connect with 
 
 ## SOME FUN STATS BELOW 👀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbako801&show_icons=true&theme=dark)
+* even...more...stats...
+  * Cups of coffee consumed daily: ☕️ 3-4
+  * Favorite programming language: 🌐 JavaScript
+  * Favorite color for a website: 🌈 #49FC030 (aka "Harlequin...idk i love this color for some reason")
+  * Hours spent gaming per week: 🎮 ~8
+  * Favorite video game of all time: 🕹️ Song of Syx
+  * Number of times I've seen "Last Samurai": 🎬 8 (still not enough)
