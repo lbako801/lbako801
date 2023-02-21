@@ -16,7 +16,7 @@ With my fun and personable approach to work, I'm always looking to connect with 
 * even...more...stats...
   * Cups of coffee consumed daily: ☕️ 3-4
   * Favorite programming language: 🌐 JavaScript
-  * Favorite color for a website: 🌈 #49FC030 (aka "Harlequin...idk i love this color for some reason")
+  * Favorite color for a website: 🌈 #49FC030 (aka "Harlequin"...idk i love this color for some reason)
   * Hours spent gaming per week: 🎮 ~8
   * Favorite video game of all time: 🕹️ Song of Syx
   * Number of times I've seen "Last Samurai": 🎬 8 (still not enough)
