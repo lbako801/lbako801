@@ -11,12 +11,8 @@ Now, when I'm not knee-deep in code, you can find me indulging in a few of my fa
 
 With my fun and personable approach to work, I'm always looking to connect with the tech community and help bring innovative ideas to life. So let's connect and start building something great together! ⚡️
 
-## SOME FUN STATS BELOW 👀
+## SOME FUN STATS BELOW (and my real-time spotify tunes)👀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbako801&show_icons=true&theme=dark)
-* even...more...stats...
-  * Cups of coffee consumed daily: ☕️ 3-4
-  * Favorite programming language: 🌐 JavaScript
-  * Favorite color for a website: 🌈 #49FC030 (aka "Harlequin"...idk i love this color for some reason)
-  * Hours spent gaming per week: 🎮 ~8
-  * Favorite video game of all time: 🕹️ Song of Syx
-  * Number of times I've seen "Last Samurai": 🎬 8 (still not enough)
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1251467434&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
