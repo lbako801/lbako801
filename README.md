@@ -1,8 +1,8 @@
-## Greetings, fellow code enthusiast!
+## Greetings, fellow code enthusiast! You are visitor number...
 
-## You are visitor # -
+
 ![Visitor Count](https://profile-counter.glitch.me/{lbako801/count.svg)
-------------------------------------------------------------------------------------------
+
 Hey there! 👋 As a full-stack engineer, I bring a unique blend of tech skills and design prowess to the table. Based in SLC, I've worked on a variety of web development projects, helping local businesses boost their online presence and stand out in a crowded market.
 
 When it comes to front-end expertise, I'm a pro with HTML, CSS, JS, and React - just give me a UI/UX challenge and I'll make it come to life! But I'm not just a one-trick pony - I'm also skilled in backend and database programming with Node.js, MySQL, MongoDB, and PostgreSQL.
