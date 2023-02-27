@@ -11,11 +11,10 @@ Now, when I'm not knee-deep in code, you can find me indulging in a few of my fa
 
 With my fun and personable approach to work, I'm always looking to connect with the tech community and help bring innovative ideas to life. So let's connect and start building something great together! ⚡️
 
+Like what you hear?? Contact me at my [WEBSITE](https://lorenbako.com/) and check out my [RESUME](https://lorenbako.com/static/media/resume.07c4f03fd729ea2bdc4f.pdf)
+
 ## SOME FUN STATS BELOW (and my real-time spotify tunes)👀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbako801&show_icons=true&theme=dark)
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1251467434&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-
-### MY RESUME
-[GET IT HERE](https://lorenbako.com/static/media/loren-bako-resume.cee3d627fda237c13cbb.pdf)
