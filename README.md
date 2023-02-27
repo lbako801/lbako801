@@ -16,3 +16,6 @@ With my fun and personable approach to work, I'm always looking to connect with 
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1251467434&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
+### MY RESUME
+[GET IT HERE](https://lorenbako.com/static/media/loren-bako-resume.cee3d627fda237c13cbb.pdf)
