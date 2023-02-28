@@ -11,7 +11,7 @@ Now, when I'm not knee-deep in code, you can find me indulging in a few of my fa
 
 With my fun and personable approach to work, I'm always looking to connect with the tech community and help bring innovative ideas to life. So let's connect and start building something great together! ⚡️
 
-Like what you hear? Contact me at my [WEBSITE](https://lorenbako.com/) and check out my [RESUME](https://lorenbako.com/static/media/resume.07c4f03fd729ea2bdc4f.pdf)
+Like what you hear? Contact me at my [WEBSITE](https://lorenbako.com/) and check out my [RESUME](https://lorenbako.com/static/media/resume.66f7be1970811b1cb8d9.pdf)
 
 ## SOME FUN STATS BELOW (and my real-time spotify tunes)👀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbako801&show_icons=true&theme=dark)
