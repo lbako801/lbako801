@@ -13,6 +13,8 @@ With my fun, passionate, and personable approach to work, I'm always looking to 
 
 Like what you hear? Contact me at my [WEBSITE](https://lorenbako.com/) and check out my [RESUME](https://lorenbako.com/static/media/resume.66f7be1970811b1cb8d9.pdf)
 
+Noticing a dip in my contributions? Don't worry, I'm just spending more time on DevOps.
+
 ## SOME FUN STATS BELOW (and my real-time spotify tunes)👀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbako801&show_icons=true&theme=dark)
 
