@@ -11,7 +11,7 @@ Now, when I'm not knee-deep in code, which seems to be rare nowadays, you can fi
 
 With my fun, passionate, and personable approach to work, I'm always looking to connect with the tech community and help bring innovative ideas to life. So let's connect and start building something great together! ⚡️
 
-Like what you hear? Contact me at my [WEBSITE](https://lorenbako.com/) and check out my [RESUME](https://lorenbako.com/static/media/resume.66f7be1970811b1cb8d9.pdf)
+Like what you hear? Contact me at my [WEBSITE](https://lorenbako.com/) and check out my [RESUME](https://lorenbako.com/static/media/resume.0545133d9c1eca1554dd.pdf)
 
 Noticing a dip in my contributions? Don't worry, I'm just spending more time on DevOps.
 
