@@ -1,3 +1,1 @@
-# You are visitor number...
-
 Contact me at my [WEBSITE](https://lorenbako.com/)
